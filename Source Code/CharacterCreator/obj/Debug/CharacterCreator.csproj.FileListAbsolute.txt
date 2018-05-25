@@ -1,0 +1,23 @@
+C:\Users\s178020\documents\visual studio 2015\Projects\CharacterCreator\CharacterCreator\bin\Debug\CharacterCreator.exe.config
+C:\Users\s178020\documents\visual studio 2015\Projects\CharacterCreator\CharacterCreator\bin\Debug\CharacterCreator.exe
+C:\Users\s178020\documents\visual studio 2015\Projects\CharacterCreator\CharacterCreator\bin\Debug\CharacterCreator.pdb
+C:\Users\s178020\documents\visual studio 2015\Projects\CharacterCreator\CharacterCreator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s178020\documents\visual studio 2015\Projects\CharacterCreator\CharacterCreator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s178020\documents\visual studio 2015\Projects\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.Form1.resources
+C:\Users\s178020\documents\visual studio 2015\Projects\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.Properties.Resources.resources
+C:\Users\s178020\documents\visual studio 2015\Projects\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.csproj.GenerateResource.Cache
+C:\Users\s178020\documents\visual studio 2015\Projects\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.exe
+C:\Users\s178020\documents\visual studio 2015\Projects\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.pdb
+C:\Users\s178020\documents\visual studio 2015\Projects\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.csprojResolveAssemblyReference.cache
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.pdb
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\bin\Debug\CharacterCreator.pdb
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.csprojResolveAssemblyReference.cache
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.Properties.Resources.resources
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.csproj.GenerateResource.Cache
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.Form2.resources
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.Form1.resources
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\bin\Debug\CharacterCreator.exe.config
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\bin\Debug\CharacterCreator.exe
+C:\Users\s178020\Documents\GitHub\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.exe
